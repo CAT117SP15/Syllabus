@@ -484,36 +484,66 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Rescue Time - https://www.rescuetime.com/
 		- http://selfcontrolapp.com/
 		- Evernote, SQ3R
-
-Evernote, SQ3R
 	- For Homework
+		Get a Github account
+		Email me your handle from your BC acct
+		Fwd your BC account to personal acct
+		Read:
+			Rushkoff’s Program or Be Programmed - Ch. 1 (CMT)
+			Programming, Creative Boost (RR)
+			PI - Ch. 2
+
 - Week 2:  Jan 22
 	- Class
+		- Programming Basics
 	- Lab
+		- PP: Exercise 1
 	- For Homework
+
 - Week 3:  Jan 29
 	- Class
+		- Loops, Control, Interaction
+		- Git Hub
 	- Lab
+		- PP: Exercise 2
 	- For Homework
+
 - Week 4:  Feb 5
 	- Class
+		- Random
+		- Motion
+		- Functions
 	- Lab
+		- Studio Time
 	- For Homework
 - Week 5:  Feb 12
 	- Class
+		-Arrays 
+		-Algorithms
+		-Images
 	- Lab
+		-PP: Exercise 3
 	- For Homework
 - Week 6:  Feb 19
 	- Class
+		- Project 1 DUE
+		- Pixels - breaking apart images
 	- Lab
+		- PP: Exercise 3
 	- For Homework
 - Week 7:  Feb 26
 	- Class
+		- MidTerm Self Assessment Due
+		- Video
+		- OOP 
 	- Lab
+		- PP: Exercise 4a
 	- For Homework
 - Week 8:  Mar 5
 	- Class
+		- OOP
 	- Lab
+		- Exercise 4a/b
 	- For Homework
 - March 9 - 15
 - Week 9:  Mar 19
