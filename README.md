@@ -472,3 +472,73 @@ Bloomfield College is committed to assuring equal educational opportunity and fu
 
 Students who believe they are eligible for course accommodations under the ADA or Section 504 or have had accommodations or modifications in the past, should contact the Office for Students with Disabilities at 973-748-9000 or Margaret_Adams@bloomfield.edu to arrange for appropriate accommodations and to obtain an accommodations letter, if applicable.  Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Office for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
 
+
+### Schedule
+
+- Week 1:  Jan 15
+	- Class
+		- Introductions 
+		- Course Outline
+		- Expectancies
+	- Lab
+		- Rescue Time - https://www.rescuetime.com/
+		- http://selfcontrolapp.com/
+		- Evernote, SQ3R
+
+Evernote, SQ3R
+	- For Homework
+- Week 2:  Jan 22
+	- Class
+	- Lab
+	- For Homework
+- Week 3:  Jan 29
+	- Class
+	- Lab
+	- For Homework
+- Week 4:  Feb 5
+	- Class
+	- Lab
+	- For Homework
+- Week 5:  Feb 12
+	- Class
+	- Lab
+	- For Homework
+- Week 6:  Feb 19
+	- Class
+	- Lab
+	- For Homework
+- Week 7:  Feb 26
+	- Class
+	- Lab
+	- For Homework
+- Week 8:  Mar 5
+	- Class
+	- Lab
+	- For Homework
+- March 9 - 15
+- Week 9:  Mar 19
+	- Class
+	- Lab
+	- For Homework
+- Week 10:  Mar 26
+	- Class
+	- Lab
+	- For Homework
+- April 2
+- Week 12: Apr 9th
+	- Class
+	- Lab
+	- For Homework
+- Week 13: Apr 16
+	- Class
+	- Lab
+	- For Homework
+- Week 12: Apr 23
+	- Class
+	- Lab
+	- For Homework
+- Week 13: Apr 30
+	- Class
+	- Lab
+	- For Homework
+- Finals Week May 7th
