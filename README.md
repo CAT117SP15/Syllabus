@@ -528,6 +528,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Read:
 			- LP - Ch 7-8, 13-14
 			- Nature of Code - Intro (RR)
+
 - Week 5:  Feb 12
 	- Class
 		-Arrays 
@@ -539,6 +540,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		-Read:
 			- LP - Ch. 9- 11
 			- Project 1
+
 - Week 6:  Feb 19
 	- Class
 		- Project 1 DUE
@@ -550,6 +552,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- MidTerm Self Assessment
 		- Read:
 			- LP - Ch. 15-16
+
 - Week 7:  Feb 26
 	- Class
 		- MidTerm Self Assessment Due
@@ -561,6 +564,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Read:
 			- IP - Ch. 5
 			- LP - Ch. 8, 22
+
 - Week 8:  Mar 5
 	- Class
 		- OOP
@@ -570,7 +574,9 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Proposal for Project 2
 		- Read 
 			- Programming, Creative Boost (RR)
+
 - March 9 - 15 **Spring Break **
+
 - Week 9:  Mar 19
 	- Class
 		- Project 2: round table proposals
@@ -581,6 +587,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Read:
 			- LP - Ch. 12, 18, 19
 			- http://ofxaddons.com/ Ingredients: Addon’s, Libraries, 
+
 - Week 10:  Mar 26
 	- Class
 		- Round table for Project 3
@@ -591,7 +598,9 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- For Homework
 		- Read:
 			- LP - Ch. 20-21, 23
+
 - April 2 **Easter Break**
+
 - Week 12: Apr 9th
 	- Class
 		- Json
@@ -600,6 +609,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Studio Time
 	- For Homework
 		- Prototype for Project 3
+
 - Week 13: Apr 16
 	- Class
 		- Prototype for Project 3 Due
@@ -608,6 +618,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Studio Time
 	- For Homework
 		- Project 3
+
 - Week 12: Apr 23
 	- Class
 		- Studio Time
@@ -616,12 +627,14 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- For Homework
 		- Project 3
 		- Final Self-Assessment
+
 - Week 13: Apr 30
 	- Class
 		- Project 3: Due - Group Critique
 		- Final Self Assessment Due
 	- For Homework
 		- Study for the Final
+
 - Finals Week May 7th - Final Exam
 
 
