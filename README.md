@@ -1,8 +1,8 @@
 # Syllabus for CAT 117 Process & Interaction: An Introduction to Creative Coding 
 * **Katherine Bennett, Assistant Professor**
 * **Email: Katherine_Bennett@bloomfield.edu**
-* **Office Hours: Tues Thur Fri 9-9:45 am, 2:30-3pm **
-* **Office Location: B13 **
+* **Office Hours: Tues Thur Fri 9-9:45 am, 2:30-3pm**
+* **Office Location: B13**
 
 ## Processing & Interaction: An Intro to Creative Coding
 This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, networked video games and user interfaces.  Interactivity will be introduced and discussed throughout. 1 c.u.
@@ -306,7 +306,7 @@ For each project your grade will be assessed upon the following: Principles, Cre
 
 
 
-The numerical breakdown for letter grades is as follows:
+#### The numerical breakdown for letter grades is as follows:
 
 • A	100-90		Excellent
 
@@ -325,73 +325,133 @@ The Bloomfield College Grading Policy can be found in the current Course Catalog
 
 ### Required Resources
 • Github vs Linked in : http://www.ittybittyurl.com/32g6, http://www.ittybittyurl.com/32g7
+
 • http://lifedev.net/2008/07/programmer-creativity-boost/
+
 • http://www.openframeworks.cc/tutorials/
+
 • http://www.openframeworks.cc/
+
 • http://www.openframeworks.cc/documentation/
+
 • http://wiki.openframeworks.cc/index.php?title=Main_Page
+
 • http://ofxaddons.com/
+
 • http://natureofcode.com/
+
 • Douglas Rushkoff’s Program or Be Programmed 
+
 
 ### Fabulous References and Supporting Resources
 #### Programming (general) and other languages
+
 • http://worrydream.com/LearnableProgramming/
+
 • http://www.udacity.com/
+
 • http://www.codeschool.com/
+
 • Code Academy - http://www.codecademy.com/#!/exercises/0
+
 • https://coderwall.com/
+
 • http://www.ittybittyurl.com/32g9 <-- list of online references and learning places for programming
+
 • http://projecteuler.net/problems
+
 • http://teamtreehouse.com/library
+
 • http://learnpythonthehardway.org/
+
 • http://ruby.learncodethehardway.org/
+
 • http://codingbat.com/ (Python and Java)
+
 • http://inventwithpython.com/
+
 • http://creativejs.com/2011/08/31-days-of-canvas-tutorials/
+
 #### Processing
+
 • http://funprogramming.org/
+
 • http://forum.processing.org/
+
 • http://processing.org/learning/
+
 • http://www.learningprocessing.com/tutorials/
+
 • http://www.plethora-project.com/2011/09/12/processing-tutorials/
+
 • http://flowingdata.com/2010/04/13/data-visualization-tutorial-in-processing/
+
 • http://www.lynda.com/Processing-training-tutorials/1402-0.html
+
 ####openFrameworks
+
 • https://sites.google.com/site/ofauckland/home
+
 • https://github.com/jefftimesten/CodeForArt
+
 • https://github.com/openframeworks/openFrameworks/wiki/Tutorials,-Examples-and-Documentation
+
 • http://www.quietless.com/kitchen/getting-started-with-openframeworks/
+
 • http://www.memo.tv/simple-openframeworks-application-on-iphone-sample-1/
+
 ####Git
 
 • http://gitref.org/
+
 • http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
+
 • http://git-scm.com/docs
+
 • http://rogerdudler.github.com/git-guide/
+
 • http://www.lynda.com/GitHub-training-tutorials/1384-0.html
+
 ####Xcode
+
 • http://www.lynda.com/Xcode-training-tutorials/451-0.html
 
 #### Twitter Resources and Inspiration
 
 • Joshua Noble - @fctry2
+
 • Joshua Nimoy - @jtnimoy
+
 • Red Paper Heart - @redpaperhearts
+
 • Creative Coding - @creativecoding
+
 • Casey Reas - @Reas
+
 • Daniel Shiffman - @shiffman
+
 • Marius Watz - @mariuswatz
+
 • Amit Pitaru - @pitaru
+
 • Processing Tips - @ProcessingTips
+
 • Creative Applications - @creativeapps
+
 • Memo Akten - @memotv
+
 • Seb Lee-Delisle - @seb_ly
+
 • Eyeo organizers - @eyeofestival
+
 • Kyle McDonald - @kcimc
+
 • Jer Thorp - @blprnt
+
 • Golan Levin - @golan
+
 • Hacker School - @hackerschool
+
 
 ### Technology in the Classroom
 
