@@ -485,13 +485,13 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- http://selfcontrolapp.com/
 		- Evernote, SQ3R
 	- For Homework
-		Get a Github account
-		Email me your handle from your BC acct
-		Fwd your BC account to personal acct
-		Read:
-			Rushkoff’s Program or Be Programmed - Ch. 1 (CMT)
-			Programming, Creative Boost (RR)
-			PI - Ch. 2
+		- Get a Github account
+		- Email me your handle from your BC acct
+		- Fwd your BC account to personal acct
+		- Read:
+			- Rushkoff’s Program or Be Programmed - Ch. 1 (CMT)
+			- Programming, Creative Boost (RR)
+			- PI - Ch. 2
 
 - Week 2:  Jan 22
 	- Class
@@ -499,6 +499,11 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		- PP: Exercise 1
 	- For Homework
+		- Project 1
+		- Read:
+			- LP - Ch. 1-3
+			- Git Hub vs Linked In - link
+			- The 10 Algorithms that Dominate 
 
 - Week 3:  Jan 29
 	- Class
@@ -507,6 +512,9 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		- PP: Exercise 2
 	- For Homework
+		- Project 1
+		- Read:
+			- LP - Ch. 4-6
 
 - Week 4:  Feb 5
 	- Class
@@ -516,6 +524,10 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		- Studio Time
 	- For Homework
+		- Project 1
+		- Read:
+			- LP - Ch 7-8, 13-14
+			- Nature of Code - Intro (RR)
 - Week 5:  Feb 12
 	- Class
 		-Arrays 
@@ -524,6 +536,9 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		-PP: Exercise 3
 	- For Homework
+		-Read:
+			- LP - Ch. 9- 11
+			- Project 1
 - Week 6:  Feb 19
 	- Class
 		- Project 1 DUE
@@ -531,6 +546,10 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		- PP: Exercise 3
 	- For Homework
+		- Pull everyone’s projects & run them. Give 2 critical/improvement comments, 1 positive comment.
+		- MidTerm Self Assessment
+		- Read:
+			- LP - Ch. 15-16
 - Week 7:  Feb 26
 	- Class
 		- MidTerm Self Assessment Due
@@ -539,36 +558,99 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		- PP: Exercise 4a
 	- For Homework
+		- Read:
+			- IP - Ch. 5
+			- LP - Ch. 8, 22
 - Week 8:  Mar 5
 	- Class
 		- OOP
 	- Lab
 		- Exercise 4a/b
 	- For Homework
-- March 9 - 15
+		- Proposal for Project 2
+		- Read 
+			- Programming, Creative Boost (RR)
+- March 9 - 15 **Spring Break **
 - Week 9:  Mar 19
 	- Class
+		- Project 2: round table proposals
+		- Strings & Reading files
 	- Lab
+		- Exercise 5
 	- For Homework
+		- Read:
+			- LP - Ch. 12, 18, 19
+			- http://ofxaddons.com/ Ingredients: Addon’s, Libraries, 
 - Week 10:  Mar 26
 	- Class
+		- Round table for Project 3
+		- Addon’s
+		- Libraries
 	- Lab
+		- Exercise 6
 	- For Homework
-- April 2
+		- Read:
+			- LP - Ch. 20-21, 23
+- April 2 **Easter Break**
 - Week 12: Apr 9th
 	- Class
+		- Json
+		- OpenCV
 	- Lab
+		- Studio Time
 	- For Homework
+		- Prototype for Project 3
 - Week 13: Apr 16
 	- Class
+		- Prototype for Project 3 Due
+		- Demo By Request
 	- Lab
+		- Studio Time
 	- For Homework
+		- Project 3
 - Week 12: Apr 23
 	- Class
+		- Studio Time
 	- Lab
+		- Studio Time
 	- For Homework
+		- Project 3
+		- Final Self-Assessment
 - Week 13: Apr 30
 	- Class
-	- Lab
+		- Project 3: Due - Group Critique
+		- Final Self Assessment Due
 	- For Homework
-- Finals Week May 7th
+		- Study for the Final
+- Finals Week May 7th - Final Exam
+
+
+## Paired Programming Exercises:
+Exercise 1: Crop a section of Kandinsky’s Composition 8 (github) First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex().
+
+Exercise 2: Write a program that creates a monster. Animate the monster using variables and mouse interaction. Use different control constructs to animate the character for a set duration, or state.
+
+Exercise 3: Use what you’ve learned about motion and images to load images into a kinetic collage, that changes upon input. Use only your own images or images that you have permission to use. Flickr is a good source if you don’t want to use your own photos: http://www.flickr.com/commons/
+
+Exercise 4a: Take monsters made from others in the class (See exercise 2). Create a classes for each. Then create a monster army, with each monster being able to be drawn uniquely, based on the call to the class. You must have at least 3 methods. Create a program that draws your monster army to the screen at once. You may even make classes out of individual parts and swap them among monsters (ex, hairy arm, fleshy arm, buffer arm, robotic arm, etc).
+
+Exercise 4b: Take your monsters and give them individual behaviors. Are certain ones angry or happy? Weak or strong? Playful or humourous? What happens when certain monsters come in contact with other monsters? How do they interact? What happens over time? Do they age? Get fat? Integrate time, motion, Perlin noise, control structures, etc.
+
+Exercise 5: Strings
+
+Exercise 6: XML, Yahoo, Twitter- Libraries & API
+
+
+## Project 1: Adjective - 6wks
+Pick an adjective and make a program that illustrates that adjective interactively. You may not use images.  Only drawing functions, meaning mostly stuff found in the ‘graphics’ section.
+The focus of this project is procedural intensity. How expressive can you be using only lines, shapes, colors?
+
+Ingredients: Graphics, Control Structures, Interaction, Custom functions, Random 
+
+## Project 2: Choice - 6wks
+
+Option 1- Persuasion: Choose a current event, news item, or issue that you feel strongly about and make a piece that addressees it.  Think of it as an interactive, algorithmic documentary.    The emphasis of this project is using code to be persuasive.  How can you convey a point of view in using procedural generation and interactivity?
+
+Ingredients: Control structures, interaction, addon’s, libraries, advance topics
+
+Option 2 - High Score: Design and program a game. This project focuses on motion and interaction. To place the focus on those two components exclusively, the visual elements will be minimal. The visual components of the game are restricted to ~6 basic shapes on the screen at a time, but you may use any motion or interaction technique that you can imagine. You many use only lines, circles, and rectangles, but you may also use simple typography to keep score or show other basic data. These restrictions have been defined to minimize the complexity of the project, to encourage you to be creative within constraints, and to place the emphasis on the qualities of the interaction. After you have completed the game as geometry, you may choose to “skin” the game.
