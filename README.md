@@ -1,21 +1,25 @@
 # Syllabus for CAT 117 Process & Interaction: An Introduction to Creative Coding 
-* **Katherine Bennett, Assistant Professor
-* **Email: Katherine_Bennett@bloomfield.edu
-* **Office Hours: Tues Thur Fri 9-9:45 am, 2:30-3pm 
-* **Office Location: B13
+* **Katherine Bennett, Assistant Professor**
+* **Email: Katherine_Bennett@bloomfield.edu**
+* **Office Hours: Tues Thur Fri 9-9:45 am, 2:30-3pm **
+* **Office Location: B13 **
 
-## Processing & Interaction: An Introduction to Creative Coding
+## Processing & Interaction: An Intro to Creative Coding
 This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, networked video games and user interfaces.  Interactivity will be introduced and discussed throughout. 1 c.u.
 
 ###Course Competency
 • Scientific and Technical Skills 
+
 Students will achieve a well-rounded proficiency in technical concepts including: core competence in programing (variables, loops, control, movement, classes, Addon’s & Libraries, Object Orientated Programming); fluency in industry standard commercial hardware, software (IDE’s ) and professional workflows (Git & Version Control); and understand the interaction and user design concepts behind art and design. 
+
 • Creative Problem Solving, iteration, tenacity, critical thinking
 Students will have coding challenges and projects that they will have bring to fruition through code and iteration.
+
 • research (This includes visual, materials, and technological research)
 
 ###Course Goals
 Students will:
+
 • Develop procedural thinking skills
 • Develop and refine problem solving and independent learning skills
 • An alleviation of the fear of programming (it’s not that bad) and acquisition of programming principles
@@ -27,7 +31,9 @@ Students will:
 • Create an internal developer / creative community 
 
 ### Program Goals
-• This course reinforces the CAT Program goals by
+
+This course reinforces the CAT Program goals by
+
 • Integrate multiple mediums of image, text, sound, physical, space, and interactivity. (Reinforced)
 • Adapt to constantly changing technological paradigms by learning how to learn. Skills acquisition. 
 • Combine research and studio practice through inquiry and iteration. (Reinforced)
@@ -38,7 +44,9 @@ Students will:
 
 ### Assessment
 Assessment will occur by reviewing weekly coding assignments & challenges, project milestones, and final projects. The course is cumulative.  Please see the Grading Section for specific grade breakdown, calendar for due dates, and assignments for briefs. 
+
 Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7 (Feb 26) & Week 13  (April 30) or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document.
+
 • Critically analyze/evaluate how much time was spent learning syntax & structure, programming concepts vs. actually programming, and how does this reflect on the final quality of your end result. 
 • Comment on your openFrameworks and Processing successes and frustrations.
 • Compare and contrast openFrameworks versus Processing
