@@ -146,7 +146,7 @@ We will utilize a variety of tools to make this class successful and to create y
 
 • openFrameworks - http://www.openframeworks.cc/
 
-• Sublime Text
+• Sublime Text - http://www.sublimetext.com/2
 
 • Proper utilization of resources outlined
 
@@ -489,9 +489,9 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Email me your handle from your BC acct
 		- Fwd your BC account to personal acct
 		- Read:
-			- Rushkoff’s Program or Be Programmed - Ch. 1 (CMT)
-			- Programming, Creative Boost (RR)
-			- PI - Ch. 2
+			- Rushkoff’s Program or Be Programmed - Ch. 1 (email)
+			- Programming, Creative Boost http://lifedev.net/2008/07/programmer-creativity-boost/
+			- PI - Ch. 2 - (email)
 
 - Week 2:  Jan 22
 	- Class
@@ -573,7 +573,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- For Homework
 		- Proposal for Project 2
 		- Read 
-			- Programming, Creative Boost (RR)
+			- Programming, Creative Boost - http://lifedev.net/2008/07/programmer-creativity-boost/
 
 - March 9 - 15 **Spring Break **
 
