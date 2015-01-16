@@ -497,7 +497,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Class
 		- Programming Basics
 	- Lab
-		- PP: [Exercise_1](/Exercise_1) 
+		- PP: [Exercise_1](https://github.com/CAT117SP15/Exercise_1) 
 	- For Homework
 		- Project 1
 		- Read:
