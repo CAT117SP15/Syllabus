@@ -481,7 +481,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Course Outline
 		- Expectancies
 	- Lab
-		- Rescue Time - https://www.rescuetime.com/
+		- [Rescue Time](https://www.rescuetime.com/)
 		- http://selfcontrolapp.com/
 		- Evernote, SQ3R
 	- For Homework
@@ -490,14 +490,14 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Fwd your BC account to personal acct
 		- Read:
 			- Rushkoff’s Program or Be Programmed - Ch. 1 (email)
-			- Programming, Creative Boost http://lifedev.net/2008/07/programmer-creativity-boost/
+			- Programming, [Creative Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
 			- PI - Ch. 2 - (email)
 
 - Week 2:  Jan 22
 	- Class
 		- Programming Basics
 	- Lab
-		- PP: Exercise 1
+		- PP: [Exercise 1](Exercise_1) 
 	- For Homework
 		- Project 1
 		- Read:
