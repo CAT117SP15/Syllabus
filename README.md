@@ -1,3 +1,4 @@
+
 # Syllabus for CAT 117 Process & Interaction: An Introduction to Creative Coding 
 * **Katherine Bennett, Assistant Professor**
 * **Email: Katherine_Bennett@bloomfield.edu**
@@ -373,6 +374,8 @@ The Bloomfield College Grading Policy can be found in the current Course Catalog
 • http://creativejs.com/2011/08/31-days-of-canvas-tutorials/
 
 #### Processing
+
+• http://icm.shiffman.net/
 
 • http://funprogramming.org/
 
