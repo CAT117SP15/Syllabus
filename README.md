@@ -508,6 +508,16 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- Git Hub vs Linked In - link
 			- The 10 Algorithms that Dominate 
 
+- Wednesday January 28th - Visiting Artist [Shannon Carroll](http://shannonleecarroll.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Shannon Carroll is an award-winning artist and media producer based in Brooklyn, 
+		NY. She works with media to foster empathy and engagement. Her creative roots lie 
+		in photography, and her current work involves design, interactive media, digital 
+		storytelling and documentary filmmaking. Shannon is Creative Director at Vivid 
+		Story, a creative studio specializing in video, photography and design for causes that 
+		matter.
+
 - Week 3:  Jan 29
 	- Class
 		- Loops, Control, Interaction
@@ -568,6 +578,17 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- IP - Ch. 5
 			- LP - Ch. 8, 22
 
+- Wednesday February 28th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Hanan Harchol is a multimedia visual artist, born in Israel, who moved to the U.S. as 
+		a child. Harchol creates paintings, drawings, animations, videos, and multimedia 
+		installations that use family narratives to explore the human condition from a 
+		psychological, philosophical, and existential perspective. Harchol’s animated series 
+		“Jewish Food For Thought” combines Jewish wisdom on topics such as apology, 
+		forgiveness, gratitude, love, fear, humility with his artmaking (i.e. animations of his 
+		Israeli nuclear physicist father and son, having arguments).
+
 - Week 8:  Mar 5
 	- Class
 		- OOP
@@ -579,6 +600,19 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- Programming, Creative Boost - http://lifedev.net/2008/07/programmer-creativity-boost/
 
 - March 9 - 15 **Spring Break **
+
+- Wednesday March 18th - Visiting Artist [Chris Doyle](http://chrisdoylestudio.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Chris Doyle is an interdisciplinary artist based in Brooklyn, New York. His recent 
+		work explores the cultural construction of landscape. His work includes temporary 
+		and permanent projects in the public sphere BRIGHT CANYON, presented by the 
+		Times Square Alliance (2014); LEAP, presented by Creative Time in Columbus Circle 
+		(2000) and Commutable, presented by the Public Art Fund on the Lower East Side 
+		(1996), all in New York City. His work has also been shown at The Brooklyn 
+		Museum of Art, The Queens Museum of Art, P.S.1 Museum of Contemporary Art, the 
+		Kupferstichkabinett Berlin, Germany, and as part of the New York Video Festival at 
+		Lincoln Center.
 
 - Week 9:  Mar 19
 	- Class
@@ -603,6 +637,20 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- LP - Ch. 20-21, 23
 
 - April 2 **Easter Break**
+
+- Wednesday April 8th - Visiting Artist [Katherine Bennett](http://www.katherinebennett.net)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Katherine Bennett, an electronic artist with a background in interactive light 
+		environments, engrossed herself in programming and sound to widen her studio 
+		practice. Her work explores the social relationships engendered when time is 
+		blurred, frozen, collapsed and expanded. Her interests pertain to the non-physical 
+		presence of thought and memory. Bennett widens notions of habitable spaces: 
+		involving the intangible spaces within the mind and the liminal spaces created by 
+		digital communities. She uses sound and light as visceral rubble to foster 
+		relationships across these spaces, creating a presence across a trajectory of time. 
+		Her latest environments deal with the terrain of memory - it's absence, degradation 
+		and the new space that this loss provides for new experiences.
 
 - Week 12: Apr 9th
 	- Class
