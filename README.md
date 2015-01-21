@@ -554,6 +554,17 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- LP - Ch. 9- 11
 			- Project 1
 
+- Wednesday February 18th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Hanan Harchol is a multimedia visual artist, born in Israel, who moved to the U.S. as 
+		a child. Harchol creates paintings, drawings, animations, videos, and multimedia 
+		installations that use family narratives to explore the human condition from a 
+		psychological, philosophical, and existential perspective. Harchol’s animated series 
+		“Jewish Food For Thought” combines Jewish wisdom on topics such as apology, 
+		forgiveness, gratitude, love, fear, humility with his artmaking (i.e. animations of his 
+		Israeli nuclear physicist father and son, having arguments).
+		
 - Week 6:  Feb 19
 	- Class
 		- Project 1 DUE
@@ -578,16 +589,6 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- IP - Ch. 5
 			- LP - Ch. 8, 22
 
-- Wednesday February 28th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
-	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
-
-		Hanan Harchol is a multimedia visual artist, born in Israel, who moved to the U.S. as 
-		a child. Harchol creates paintings, drawings, animations, videos, and multimedia 
-		installations that use family narratives to explore the human condition from a 
-		psychological, philosophical, and existential perspective. Harchol’s animated series 
-		“Jewish Food For Thought” combines Jewish wisdom on topics such as apology, 
-		forgiveness, gratitude, love, fear, humility with his artmaking (i.e. animations of his 
-		Israeli nuclear physicist father and son, having arguments).
 
 - Week 8:  Mar 5
 	- Class
