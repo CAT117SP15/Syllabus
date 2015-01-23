@@ -222,7 +222,7 @@ Week 7:  Feb 26 - Ben Fry & Joshua Noble -  (Valencio)
 
 Week 8:  Mar 5 - Red Paper Heart & Daniel Shiffman
 
-Week 9:  Mar 19 - Marius Watz & Memo Akten
+Week 9:  Mar 19 - Marius Watz & Memo Akten (Ash)
 
 Week 10:  Mar 26 - Seb Lee-Delisle & Kyle McDonald
 
