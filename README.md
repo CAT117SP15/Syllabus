@@ -712,3 +712,19 @@ Option 1- Persuasion: Choose a current event, news item, or issue that you feel 
 Ingredients: Control structures, interaction, addon’s, libraries, advance topics
 
 Option 2 - High Score: Design and program a game. This project focuses on motion and interaction. To place the focus on those two components exclusively, the visual elements will be minimal. The visual components of the game are restricted to ~6 basic shapes on the screen at a time, but you may use any motion or interaction technique that you can imagine. You many use only lines, circles, and rectangles, but you may also use simple typography to keep score or show other basic data. These restrictions have been defined to minimize the complexity of the project, to encourage you to be creative within constraints, and to place the emphasis on the qualities of the interaction. After you have completed the game as geometry, you may choose to “skin” the game.
+
+
+
+<!-- Links -->
+[create-repo]: https://help.github.com/articles/create-a-repo
+[private-repos]: /guide/private_repos
+[add-to-team-action]: https://github.com/education/teachers_pet/#giving-others-access
+[teachers-pet]: https://github.com/education/teachers_pet
+[help-add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
+[help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
+[forking]: https://guides.github.com/activities/forking/
+[ref-clone]: http://gitref.org/creating/#clone
+[ref-commit]: http://gitref.org/basic/#commit
+[ref-push]: http://gitref.org/remotes/#push
+[pull-request]: https://help.github.com/articles/creating-a-pull-request
+[raw]: https://raw.githubusercontent.com/education/guide/master/docs/forks.md
