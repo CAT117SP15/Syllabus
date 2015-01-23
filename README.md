@@ -1,4 +1,3 @@
-
 # Syllabus for CAT 117 Process & Interaction: An Introduction to Creative Coding 
 * **Katherine Bennett, Assistant Professor**
 * **Email: Katherine_Bennett@bloomfield.edu**
@@ -147,7 +146,7 @@ We will utilize a variety of tools to make this class successful and to create y
 
 • openFrameworks - http://www.openframeworks.cc/
 
-• Sublime Text - http://www.sublimetext.com/2
+• Sublime Text
 
 • Proper utilization of resources outlined
 
@@ -185,6 +184,17 @@ Homework projects will be turned in via GitHub. GitHub is a web hosting service 
 Time. Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-10 hours outside of class to succeed.  
 Projects are not group projects.
 
+#### How to Submit Assignments via GitHub
+
+
+Do the follow these steps for each assignment:
+
+1. To start, [**fork** the repository][forking].
+1. [**Clone**][ref-clone] the repository to your computer.
+1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
+1. [**Push**][ref-push]/sync the changes up to GitHub.
+1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
+
 ###Show and Tell
 
 You will be assigned a Show and Tell presentation date. See the calendar. Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 10-15 minutes long. Be able to address the following, along with visual examples of their work: (2 points each)
@@ -208,7 +218,7 @@ Week 4:  Feb 5 - United Visual Artists & Hellicar & Lewis
 
 Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas
 
-Week 7:  Feb 26 - Ben Fry & Joshua Noble
+Week 7:  Feb 26 - Ben Fry & Joshua Noble -  (Valencio)
 
 Week 8:  Mar 5 - Red Paper Heart & Daniel Shiffman
 
@@ -375,7 +385,9 @@ The Bloomfield College Grading Policy can be found in the current Course Catalog
 
 #### Processing
 
-• http://icm.shiffman.net/
+• [Learning Processing (Daniel Shiffman, video lectures)](http://icm.shiffman.net/)
+
+• [Nature of Code (Daniel Shiffman, video lectures)](https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset)
 
 • http://funprogramming.org/
 
@@ -475,6 +487,36 @@ Bloomfield College is committed to assuring equal educational opportunity and fu
 
 Students who believe they are eligible for course accommodations under the ADA or Section 504 or have had accommodations or modifications in the past, should contact the Office for Students with Disabilities at 973-748-9000 or Margaret_Adams@bloomfield.edu to arrange for appropriate accommodations and to obtain an accommodations letter, if applicable.  Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Office for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
 
+### Other Support Services for students
+
+·      [Personal Counseling:](http://bloomfield.edu/content/personal-counseling) If you are struggling with a personal issue and need to speak with someone, Bloomfield College offers free and confidential counseling to all students. For more information, contact Sharon McNulty, the Director of Personal Counseling, at Sharon_McNulty@bloomfield.edu.
+
+·      [Health Services:](http://bloomfield.edu/content/health-services) If you are feeling ill, make an appointment at the College’s health services office. For more information contact Robert Martinez at Robert_Martinez@bloomfield.edu.
+
+
+·      The Student Support Services (SSS) Grant was awarded to Bloomfield College in the 2000-2001 academic year. The program was named [STAR (Students To Achieve Renown)](http://bloomfield.edu/academics/academic-centers/special-programs/star). The program fosters the attainment of academic and personal success via student centered activities and services so that each participant may successfully acquire their baccalaureate degree.
+
+What is STAR?
+
+The STAR Program is a TRIO federally funded project that endeavors to increase the retention and graduation rates of its participants while facilitating the process of transition from one academic level to the next. A comprehensive student support services program that provides opportunities for academic development, assists students with basic college requirements, and serves to guide and motivate students towards the successful completion of their college education. In particular, the project aims to advance objectives related to needs assessment, good academic standing, persistence and graduation.
+
+    Academic Advising and Personal Counseling
+    Mentoring and Coaching
+    Instruction in Academic Foundation Courses
+    Academic Skill Building & Study Skills Workshops
+    Financial Literacy Workshops                                                                                                        
+    Math, English & Technology Tutorials
+    Pre-Nursing Support Group
+    Student-Staff Roundtables
+    Career Guidance
+    Participant Computer Lab
+    Leadership & Cultural Enrichment Activities
+    Grant Aid to Pell-Eligible Students
+    Assistance in understanding and completing your FAFSA
+    Graduate/Professional School Enrollment Assistance
+
+    For more information, contact Christina_Dilkes@bloomfield.edu. 
+
 
 ### Schedule
 
@@ -484,7 +526,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Course Outline
 		- Expectancies
 	- Lab
-		- [Rescue Time](https://www.rescuetime.com/)
+		- Rescue Time - https://www.rescuetime.com/
 		- http://selfcontrolapp.com/
 		- Evernote, SQ3R
 	- For Homework
@@ -492,31 +534,21 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- Email me your handle from your BC acct
 		- Fwd your BC account to personal acct
 		- Read:
-			- Rushkoff’s Program or Be Programmed - Ch. 1 (email)
-			- Programming, [Creative Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
-			- PI - Ch. 2 - (email)
+			- Rushkoff’s Program or Be Programmed - Ch. 1 (CMT)
+			- Programming, Creative Boost (RR)
+			- PI - Ch. 2
 
 - Week 2:  Jan 22
 	- Class
 		- Programming Basics
 	- Lab
-		- PP: [Exercise_1](https://github.com/CAT117SP15/Exercise_1) 
+		- PP: Exercise 1
 	- For Homework
 		- Project 1
 		- Read:
 			- LP - Ch. 1-3
-			- Git Hub vs Linked In - link
-			- The 10 Algorithms that Dominate 
-
-- Wednesday January 28th - Visiting Artist [Shannon Carroll](http://shannonleecarroll.com)
-	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
-
-		Shannon Carroll is an award-winning artist and media producer based in Brooklyn, 
-		NY. She works with media to foster empathy and engagement. Her creative roots lie 
-		in photography, and her current work involves design, interactive media, digital 
-		storytelling and documentary filmmaking. Shannon is Creative Director at Vivid 
-		Story, a creative studio specializing in video, photography and design for causes that 
-		matter.
+			- [Git Hub vs Linked In](http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/)
+			- [The 10 Algorithms that Dominate](http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464)
 
 - Week 3:  Jan 29
 	- Class
@@ -550,22 +582,12 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Lab
 		-PP: Exercise 3
 	- For Homework
+		- MidTerm Self Assessment
 		-Read:
 			- LP - Ch. 9- 11
 			- Project 1
 
-- Wednesday February 18th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
-	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
-
-		Hanan Harchol is a multimedia visual artist, born in Israel, who moved to the U.S. as 
-		a child. Harchol creates paintings, drawings, animations, videos, and multimedia 
-		installations that use family narratives to explore the human condition from a 
-		psychological, philosophical, and existential perspective. Harchol’s animated series 
-		“Jewish Food For Thought” combines Jewish wisdom on topics such as apology, 
-		forgiveness, gratitude, love, fear, humility with his artmaking (i.e. animations of his 
-		Israeli nuclear physicist father and son, having arguments).
-		
-- Week 6:  Feb 19
+- Week 6:  Feb 19 - MidTerm Self Assessment Due
 	- Class
 		- Project 1 DUE
 		- Pixels - breaking apart images
@@ -573,13 +595,12 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- PP: Exercise 3
 	- For Homework
 		- Pull everyone’s projects & run them. Give 2 critical/improvement comments, 1 positive comment.
-		- MidTerm Self Assessment
 		- Read:
 			- LP - Ch. 15-16
+		- Sign up for One-on-One reviews with me during my office hours. (Link forthcoming)
 
 - Week 7:  Feb 26
 	- Class
-		- MidTerm Self Assessment Due
 		- Video
 		- OOP 
 	- Lab
@@ -589,7 +610,6 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- IP - Ch. 5
 			- LP - Ch. 8, 22
 
-
 - Week 8:  Mar 5
 	- Class
 		- OOP
@@ -598,22 +618,9 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- For Homework
 		- Proposal for Project 2
 		- Read 
-			- Programming, Creative Boost - http://lifedev.net/2008/07/programmer-creativity-boost/
+			- Programming, Creative Boost (RR)
 
 - March 9 - 15 **Spring Break **
-
-- Wednesday March 18th - Visiting Artist [Chris Doyle](http://chrisdoylestudio.com)
-	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
-
-		Chris Doyle is an interdisciplinary artist based in Brooklyn, New York. His recent 
-		work explores the cultural construction of landscape. His work includes temporary 
-		and permanent projects in the public sphere BRIGHT CANYON, presented by the 
-		Times Square Alliance (2014); LEAP, presented by Creative Time in Columbus Circle 
-		(2000) and Commutable, presented by the Public Art Fund on the Lower East Side 
-		(1996), all in New York City. His work has also been shown at The Brooklyn 
-		Museum of Art, The Queens Museum of Art, P.S.1 Museum of Contemporary Art, the 
-		Kupferstichkabinett Berlin, Germany, and as part of the New York Video Festival at 
-		Lincoln Center.
 
 - Week 9:  Mar 19
 	- Class
@@ -638,20 +645,6 @@ Students who believe they are eligible for course accommodations under the ADA o
 			- LP - Ch. 20-21, 23
 
 - April 2 **Easter Break**
-
-- Wednesday April 8th - Visiting Artist [Katherine Bennett](http://www.katherinebennett.net)
-	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
-
-		Katherine Bennett, an electronic artist with a background in interactive light 
-		environments, engrossed herself in programming and sound to widen her studio 
-		practice. Her work explores the social relationships engendered when time is 
-		blurred, frozen, collapsed and expanded. Her interests pertain to the non-physical 
-		presence of thought and memory. Bennett widens notions of habitable spaces: 
-		involving the intangible spaces within the mind and the liminal spaces created by 
-		digital communities. She uses sound and light as visceral rubble to foster 
-		relationships across these spaces, creating a presence across a trajectory of time. 
-		Her latest environments deal with the terrain of memory - it's absence, degradation 
-		and the new space that this loss provides for new experiences.
 
 - Week 12: Apr 9th
 	- Class
