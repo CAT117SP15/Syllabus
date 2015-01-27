@@ -212,25 +212,25 @@ You will be assigned a Show and Tell presentation date. See the calendar. Please
 
 Week 2:  Jan 22 - Field - http://www.field.io/ & Josh Nimoy
 
-Week 3:  Jan 29 - Jer Thorpe & Jurg Lehni
+Week 3:  Jan 29 - Jer Thorpe & Jurg Lehni (Brian Shapiro)
 
-Week 4:  Feb 5 - United Visual Artists & Hellicar & Lewis
+Week 4:  Feb 5 - United Visual Artists & Hellicar & Lewis (Jonathan Echavarria)
 
-Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas
+Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas (Bruce Johnson) + Julian Oliver & Amit Pitaru (Hector)
 
-Week 7:  Feb 26 - Ben Fry & Joshua Noble -  (Valencio)
+Week 7:  Feb 26 - Ben Fry & Joshua Noble -  (Valencio) + Zach Lieberman & rAndom International (Nicholas Escalante)
 
-Week 8:  Mar 5 - Red Paper Heart & Daniel Shiffman
+Week 8:  Mar 5 - Red Paper Heart & Daniel Shiffman - (Nyoka)
 
 Week 9:  Mar 19 - Marius Watz & Memo Akten (Ash)
 
-Week 10:  Mar 26 - Seb Lee-Delisle & Kyle McDonald
+Week 10:  Mar 26 - Seb Lee-Delisle & Kyle McDonald - (Jhossei)
 
-Week 12: Apr 9th - Jeff Crouse & Golan Levin
+Week 12: Apr 9th - Jeff Crouse & Golan Levin - (Ash)
 
-Week 13: Apr 16 - Zachary Lieberman & Martin Wattenberg
+Week 13: Apr 16 - Zachary Lieberman & Martin Wattenberg (Andrew Arce)
 
-Week 12: Apr 23 - Joshua Davis, N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited
+Week 12: Apr 23 - Joshua Davis, N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Diato Manabe, Leo Villareal
 
 
 ### Grading
