@@ -216,13 +216,13 @@ Week 3:  Jan 29 - Jer Thorpe & Jurg Lehni (Brian Shapiro)
 
 Week 4:  Feb 5 - United Visual Artists & Hellicar & Lewis (Jonathan Echavarria)
 
-Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas (Bruce Johnson) + Julian Oliver & Amit Pitaru (Hector)
+Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas (Bruce Johnson) + Julian Oliver & Amit Pitaru 
 
 Week 7:  Feb 26 - Ben Fry & Joshua Noble -  (Valencio) + Zach Lieberman & rAndom International (Nicholas Escalante)
 
 Week 8:  Mar 5 - Red Paper Heart & Daniel Shiffman - (Nyoka)
 
-Week 9:  Mar 19 - Marius Watz & Memo Akten (Ash)
+Week 9:  Mar 19 - Marius Watz & Memo Akten (Hector)
 
 Week 10:  Mar 26 - Seb Lee-Delisle & Kyle McDonald - (Jhossei)
 
