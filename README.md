@@ -216,7 +216,7 @@ Week 3:  Jan 29 - Jer Thorpe & Jurg Lehni (Brian Shapiro)
 
 Week 4:  Feb 5 - United Visual Artists & Hellicar & Lewis (Jonathan Echavarria)
 
-Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas (Bruce Johnson) + Julian Oliver & Amit Pitaru 
+Week 5:  Feb 12 - Robert Hodgin - Flight404 & Casey Reas (Bruce Johnson) + Julian Oliver & Amit Pitaru (Kevin)
 
 Week 7:  Feb 26 - Ben Fry & Joshua Noble -  (Valencio) + Zach Lieberman & rAndom International (Nicholas Escalante)
 
@@ -230,7 +230,7 @@ Week 12: Apr 9th - Jeff Crouse & Golan Levin - (Ash)
 
 Week 13: Apr 16 - Zachary Lieberman & Martin Wattenberg (Andrew Arce)
 
-Week 12: Apr 23 - Joshua Davis, N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Diato Manabe, Leo Villareal
+Week 14: Apr 23 - Joshua Davis, N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Diato Manabe, Leo Villareal (Ryan + Jonathan Pelegrini)
 
 
 ### Grading
@@ -572,7 +572,7 @@ The STAR Program is a TRIO federally funded project that endeavors to increase t
 		- Project 1
 		- Read:
 			- LP - Ch 7-8, 13-14
-			- Nature of Code - Intro (RR)
+			- [Nature of Code - Intro](http://natureofcode.com/book/introduction/)
 
 - Week 5:  Feb 12
 	- Class
