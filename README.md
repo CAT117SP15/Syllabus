@@ -699,7 +699,7 @@ Exercise 5: Strings
 Exercise 6: XML, Yahoo, Twitter- Libraries & API
 
 
-## [Project 1: Adjective - 6wks](../master/Project_1)
+## [Project 1: Adjective - 6wks](../Syllabus/Project_1)
 Pick an adjective and make a program that illustrates that adjective interactively. You may not use images.  Only drawing functions, meaning mostly stuff found in the ‘graphics’ section.
 The focus of this project is procedural intensity. How expressive can you be using only lines, shapes, colors?
 
