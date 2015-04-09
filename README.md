@@ -708,7 +708,7 @@ Code must be 60 lines or more, not including spacing, comments or commented out 
 
 Ingredients: Graphics (shape, color, line, placement, custome shapes), Control Structures (if, for, while), Movement, Interaction (mouse, keyboard), Custom functions, Random.
 
-## Project 2: Choice - 6wks
+## Project 2: Choice - 6wks (../../../FinalProjects)
 
 Option 1- Persuasion: Choose a current event, news item, or issue that you feel strongly about and make a piece that addressees it.  Think of it as an interactive, algorithmic documentary.    The emphasis of this project is using code to be persuasive.  How can you convey a point of view in using procedural generation and interactivity?
 
